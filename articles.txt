@@ -1,0 +1,3 @@
+12345678 , Ordinateur portable , 1500
+87654321 , Smartphone , 800.00
+98765432 , Ecouteurs sans fil , 100.00
